@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.env
+.env
+.venv/
+venv/
+env/
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Logs and generated files
+*.log
+
+# Byte-compiled and cache
+*.sqlite3
+*.db
+
+# Heroku
+runtime.txt
+
+# OS-specific
+Thumbs.db
